@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "tang-tang",
+    "api_key": "xxxxxx",
+    "api_secret": "xxxxxx"
+  }
+}
